@@ -5,7 +5,7 @@ import Header from "./Header";
 function App() {
   return (
     <div className="container">
-      <Header />
+      <Header subtitle="Providing houses world wide" />
     </div>
   );
 }
